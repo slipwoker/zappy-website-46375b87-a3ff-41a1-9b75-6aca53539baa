@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://men-zone-46375b87.zappy5.app/sitemap.xml

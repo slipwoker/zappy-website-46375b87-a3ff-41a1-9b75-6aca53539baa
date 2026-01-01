@@ -1,0 +1,57 @@
+# Men Zone — Generative Engine Optimization Map
+
+> A beauty and wellness business.
+
+---
+
+## Pages
+
+### דף הבית
+https://men-zone-46375b87.zappy5.app
+גלה את מרפאת הסרת השיער בלייזר המובילה לגברים. טיפולים מתקדמים, תוצאות מוכחות. קבע תור עכשיו!
+
+### שירותים
+https://men-zone-46375b87.zappy5.app/services
+גלה את מגוון הטיפולים במרפאת הלייזר שלנו. הסרת שיער מהגב, חזה, פנים ועוד. טיפולים מתקדמים לגברים.
+
+### אודות
+https://men-zone-46375b87.zappy5.app/about
+הכירו את Men Zone - מרפאת הסרת שיער בלייזר המובילה לגברים. צוות מקצועי, טכנולוגיה מתקדמת, תוצאות מוכחות.
+
+### צור קשר
+https://men-zone-46375b87.zappy5.app/contact
+צור קשר עם Men Zone לקביעת תור או לקבלת מידע נוסף. hair removal clinic near me המובילה. נשמח לעזור!
+
+## Legal & Policy
+
+### Privacy Policy
+https://men-zone-46375b87.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://men-zone-46375b87.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://men-zone-46375b87.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Men Zone
+Men Zone is a business in the beauty and wellness industry.
+
+## Target Audience
+men
+
+## Industry
+beauty and wellness
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://men-zone-46375b87.zappy5.app/sitemap.xml
+- **Robots.txt**: https://men-zone-46375b87.zappy5.app/robots.txt
